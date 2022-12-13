@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumar24&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumar24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" width="450" height="280"/>
 
 - 🔭 I’m currently working on **React Projects**
 
@@ -15,12 +16,15 @@
 
 - 👯 I’m looking to collaborate on **React Project**
 
-- 🤝 Group Project [Myntra Clone](https://github.com/shivamkumar24/can-water-5067)
+-    Individual Project [SugarCosmetics.com Clone](https://github.com/shivamkumar24/SugarCosmetics.com-Clone)
+
+- 🤝 Group Project [Myntra Clone](https://github.com/shivamkumar24/Myntra_Clone)
 
 - 💬 Ask me about **HTML / CSS / JS / REACT / MongoDB**
 
 - 📫 How to reach me **shivamkumg@gmail.com**
 
+<!-- <img src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/> -->
 <h2 align="left">Connect with me 👋</h2>
 <p align="left">
 <a href="https://linkedin.com/in/shivamkumar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamkumar24" height="30" width="40" /></a>
