@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **React Project**
 
--    Individual Project [SugarCosmetics.com Clone](https://github.com/shivamkumar24/SugarCosmetics.com-Clone)
+-    Individual Project [Beautybebo.com-Clone](https://github.com/shivamkumar24/Beautybebo.com-Clone)
 
 - 🤝 Group Project [Myntra Clone](https://github.com/shivamkumar24/Myntra_Clone)
 
