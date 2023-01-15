@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **React Project**
 
--    Individual Project [Beautybebo.com-Clone](https://github.com/shivamkumar24/Beautybebo.com-Clone)
+- 🔭 Individual Project [Beautybebo.com-Clone](https://github.com/shivamkumar24/Beautybebo.com-Clone)
 
 - 🤝 Group Project [Myntra Clone](https://github.com/shivamkumar24/Myntra_Clone)
 
@@ -24,9 +24,9 @@
 
 - 📫 How to reach me **shivam2432000@gmail.com**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://shivamkumar24.github.io/)
+- 💻 Know more about me [PORTFOLIO](https://shivamkumar24.github.io/)
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1C3_YArb8NUMfjF8Q_lNbrLNmMRf7K1tq/view?usp=sharing)
+- 📄 Check out my [RESUME](https://drive.google.com/file/d/1C3_YArb8NUMfjF8Q_lNbrLNmMRf7K1tq/view?usp=sharing)
 
 <!-- <img src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/> -->
 <h2 align="left">Connect with me 👋</h2>
