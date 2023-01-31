@@ -16,9 +16,9 @@
 
 - 🔭 Individual Project [Beautybebo.com-Clone](https://github.com/shivamkumar24/Beautybebo.com-Clone)
 
-- 🤝 Group Project [Myntra Clone](https://github.com/shivamkumar24/Myntra_Clone)
+- 🤝 Group Project [IndiaMart Clone](https://github.com/jithstephen13/TradeMart)
 
-- 💬 Ask me about **HTML / CSS / JS / REACT / MongoDB**
+- 💬 Ask me about **HTML / CSS / JS / REACT / Redux / Typescript**
 
 - 📫 How to reach me **shivam2432000@gmail.com**
 
