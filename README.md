@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **shivam2432000@gmail.com**
 
-- 💻 Know more about me https://shivamkumar24.github.io/
+- 💻 Know more about me https://shivamkumar24.github.io./
 
 - 📄 Check out my [RESUME](https://drive.google.com/file/d/1C3_YArb8NUMfjF8Q_lNbrLNmMRf7K1tq/view?usp=sharing)
 
