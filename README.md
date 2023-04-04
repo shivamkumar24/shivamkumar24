@@ -18,7 +18,7 @@
 
 - 🤝 Group Project [IndiaMart Clone](https://github.com/jithstephen13/TradeMart)
 
-- 💬 Ask me about **HTML / CSS / JS / REACT / Redux / Typescript**
+- 💬 Ask me about **HTML / CSS / JS / REACT / Redux / Typescript / NodeJS / ExpressJS / MongoDB**
 
 - 📫 How to reach me **shivam2432000@gmail.com**
 
