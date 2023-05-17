@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **HTML / CSS / JS / REACT / Redux / Typescript / NodeJS / ExpressJS / MongoDB**
 
-- 📫 How to reach me **shivam2432000@gmail.com**
+- 📫 How to reach me **shivamkumg@gmail.com**
 
 - 💻 Know more about me https://shivamkumar24.github.io/
 
