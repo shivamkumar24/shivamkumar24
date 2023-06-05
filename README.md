@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **React Project**
 
-- 🔭 Individual Project [Beautybebo.com-Clone](https://github.com/shivamkumar24/Beautybebo.com-Clone)
+- 🔭 Individual Project [Lifestylestores.com-Clone](https://github.com/shivamkumar24/Lifestylestores.com Clone)
 
 - 🤝 Group Project [IndiaMart Clone](https://github.com/jithstephen13/TradeMart)
 
