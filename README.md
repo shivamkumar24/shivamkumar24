@@ -29,9 +29,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/> -->
 <h2 align="left">Connect with me 👋</h2>
 <p align="left">
-<a href="https://linkedin.com/in/shivamkumar24" target="_blank">
-  <img align="center" src="https://i.ibb.co/N34x3W0/LinkedIn.png" alt="shivamkumar24" height="30" width="40" />
-</a> &nbsp;
+<a href="https://linkedin.com/in/shivamkumar24" target="_blank"><img align="center" src="https://i.ibb.co/N34x3W0/LinkedIn.png" alt="shivamkumar24" height="30" width="40" /></a> &nbsp;
 <a href="https://www.hackerrank.com/shivam2432000" target="_blank"><img align="center" src="https://i.ibb.co/QvcGwZb/Hacker-Rank.png" alt="shivam2432000" height="30" width="40" /></a> &nbsp;
 <a href="https://leetcode.com/shivamkumar24/" target="_blank"><img align="center" src="https://i.ibb.co/Pjvjcx7/LeetCode.png" alt="shivamkumar" height="30" width="40" /></a> &nbsp;
 <a href="https://codesandbox.com/shivamkumar24" target="_blank"><img align="center" src="https://i.ibb.co/Hn8szGq/Codesandbox.png" alt="shivamkumar24" height="30" width="40" /></a> &nbsp;
