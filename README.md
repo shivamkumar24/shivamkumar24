@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full-stack Web Developer at Masai School</h3>
 <hr>
 <h3>About me...</h3>
-<p><b>I am a passionate and self-motivated Aspiring full-stack developer from Bihar (India).</b> Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</p>
+<p><b>A passionate and self-motivated Aspiring full-stack developer from Bihar (India).</b> Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumar24&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumar24" /> </p>
 
